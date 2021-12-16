@@ -1,0 +1,11 @@
+{
+    "api-key":"<Insert API key here>",
+    "localArea":"Exeter",
+    "localAreaType":"ltla",
+    "nationalArea":"England",
+    "nationalAreaType":"Nation",
+    "newsTerms":"Covid COVID-19 coronavirus",
+    "newsCountry":"gb",
+    "articlesShown":5,
+    "updatesShown":5
+}
